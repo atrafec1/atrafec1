@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adam Trafecanty
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mobile / web app development
+- 🌱 I’m currently learning algorithms
 - 📫 How to reach me => atrafec1@lion.lmu.edu || adamtraf@gmail.com
 
 <!---
