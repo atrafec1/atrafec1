@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Trafecanty
 - 👀 I’m interested in mobile / web app development
-- 🌱 I’m currently learning algorithms
+- 🌱 I’m currently Logic and Design / Game Development
 - 📫 How to reach me => atrafec1@lion.lmu.edu || adamtraf@gmail.com
 
 <!---
