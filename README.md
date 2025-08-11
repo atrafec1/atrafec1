@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam Trafecanty
-- 👀 I’m interested in mobile / web app development
-- 🌱 I’m currently Logic and Design / Game Development
-- 📫 How to reach me => atrafec1@lion.lmu.edu || adamtraf@gmail.com
+- 👀 I’m interested in artificial intelligence, mobile/web app development, game development
+- 🌱 I’m currently mentoring AI students at VeritasAI while I pursue my MBA at California Baptist University
+- 📫 How to reach me => adamtraf@gmail.com
 
 <!---
 atrafec1/atrafec1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
