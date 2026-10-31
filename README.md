@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Adam Trafecanty
-- 👀 Interested in backend development, artificial intelligence, and scalable web applications
-- 🌱 Currently mentoring AI students at VeritasAI while pursuing an MBA at California Baptist University
-- 📫 Reach me at: adamtraf@gmail.com
+-  Hi, I’m Adam Trafecanty
+-  Interested in learning new things
+-  Reach me at: adamtraf@gmail.com
 
 
 <!---
